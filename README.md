@@ -1,22 +1,14 @@
-# 👋 Hi, I'm Paul
+Hi, I'm Paul
 
-### Web Development Learner
-
----
-
-I'm a **5th year civil engineering student** who’s passionate about building not just structures, but also digital solution. When I'm not in school or coding, you’ll find me working as a **part-time sign language interpreter**. I've interpreted on TV a couple of times.
+I'm a 5th year civil engineering student who’s passionate about building structures and digital solutions. When I'm not in school or coding, you’ll find me working as a **part-time sign language interpreter**. I've interpreted on TV a couple of times.
 
 - 🌱 Currently learning: **React** and modern web development
 - 🌳 Hobbies: Walking in nature and finding inspiration outdoors
 
----
-
 ## 🚀 Featured Project
 
-### [SiteSync.tech](https://sitesync.tech)
+### [sitesync.tech](https://sitesync.tech)
 A web app to help construction managers **share progress with clients easily**, eliminating endless WhatsApp chats and calls.
-
----
 
 ## 🌐 Connect with Me
 
