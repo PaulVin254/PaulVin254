@@ -1,6 +1,6 @@
 Hi, I'm Paul
 
-I'm a 5th year civil engineering student who’s passionate about building structures and digital solutions. When I'm not in school or coding, you’ll find me working as a **part-time sign language interpreter**. I've interpreted on TV a couple of times.
+I'm a 5th year civil engineering student who’s passionate about building structures and apps. When I'm not in school or coding, you’ll find me working as a **part-time sign language interpreter**. I've interpreted on TV a couple of times.
 
 - 🌱 Currently learning: **React** and modern web development
 - 🌳 Hobbies: Walking in nature and finding inspiration outdoors
